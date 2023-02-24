@@ -1,0 +1,24 @@
+NOTE TUGAS: 
+Tugas Sec 6 dl minggu depan jam 12 siang 
+
+MATERI :
+Kalo katalon bisa tes api, web
+Apium  buat tes mobile. Katalon implemen apium buat run mobile
+Cypress.io, framework code buat fe mke react web mke laravel dll., Bahasanya js
+Jmeter powerfull di tes performance buat ui or api.
+Robot framework mke python, mke library selenium and apium. Bisa mobile api or web
+Lrbih enteng dr katalon DAN CYPRESS
+
+History perubahan dapat dilihat menggunakan git, untuk mengurangi adanya file" berisi revisi dan mempermudah melihat perubahan yang ada
+Git mempermudah melakukan pekerjaan bersama dengan team, karena mempermudah dalam berbagi file.
+git bisa diundo. 
+github merupakan contoh git hosting service.
+
+git status: cek perubahan status
+git hello.py 
+git add: menambahkan semuanya 
+git stash : menyimpan 
+git checkout: pindah branch
+branch master : yg rilis 
+develop : masih didevelop dan masih dilingkungan masyarakat 
+feature : masih di lokal da lingkungan developer 
